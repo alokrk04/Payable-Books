@@ -1,7 +1,4 @@
 # The Bookable Payable
-
-> You will build a system that turns a supplier document into records an accounting system can book. This is not a document-extraction task, though it will look like one for the first few hours. Read the whole brief — including the last section — before you write anything.
-
 ---
 
 ## The mandate
