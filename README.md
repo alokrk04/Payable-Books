@@ -77,7 +77,7 @@ Your system runs with **one command** over the `documents/` directory and writes
     { "invoice_type": "INVOICE", "currency": "EUR", "gross_total": "...",
       "line_items": [ ... ], "taxes": [ ... ], ... }
   ],
-  "declined": [            // any documents you determine are NOT payables (may be empty)
+ 
 
   
 
