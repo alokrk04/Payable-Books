@@ -70,7 +70,6 @@ Same total, wrong structure, is a wrong answer. Reproduce *what the document say
 
 Your system runs with **one command** over the `documents/` directory and writes, for each input `X.pdf`, a file `output/X.json` — put **all** results in an `output/` folder (create it if absent), one JSON per input PDF:
 
-```jsonc
 {
   "file": "X.pdf",
   "payables": [            // 0..N bookable payables, each conforming to AUTODRAFT_SCHEMA.md
