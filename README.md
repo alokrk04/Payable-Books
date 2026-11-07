@@ -75,8 +75,7 @@ Your system runs with **one command** over the `documents/` directory and writes
   "file": "X.pdf",
   "payables": [            // 0..N bookable payables, each conforming to AUTODRAFT_SCHEMA.md
     { "invoice_type": "INVOICE", "currency": "EUR", "gross_total": "...",
-      "line_items": [ ... ], "taxes": [ ... ], ... }
-  ],
+      
  
 
   
