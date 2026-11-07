@@ -78,7 +78,7 @@ Your system runs with **one command** over the `documents/` directory and writes
       "line_items": [ ... ], "taxes": [ ... ], ... }
   ],
   "declined": [            // any documents you determine are NOT payables (may be empty)
-    { "doc_type": "...", "reason": "why this is not a payable" }
+
   
 
 - One entry in `payables[]` per bookable payable. A document with several payables ⇒ several entries; a document that is not a payable ⇒ `payables: []`.
