@@ -1,0 +1,10 @@
+{
+  "file": "DU-02.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "CUSTOMS_DOCUMENT",
+      "reason": "Customs consolidated/detailed valuation invoices (Novatek BE to TR); no payment obligation, terms, or single amount owed is stated — not a bookable payable."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "file": "DU-05s.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "DELIVERY_NOTES",
+      "reason": "Vantek delivery notes, DHL shipping labels and a shipment receipt; no commercial invoice or amount owed."
+    }
+  ]
+}

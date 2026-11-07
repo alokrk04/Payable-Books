@@ -1,0 +1,8 @@
+# requirements: pip install -r requirements.txt
+# tesseract-ocr (system package: brew install tesseract / apt install tesseract-ocr)
+# is only needed for the local-OCR fallback; the primary path is the local
+# Ollama vision LLM (no cloud API key required).
+pypdfium2>=4
+Pillow>=10
+pypdf>=4
+rapidfuzz>=3

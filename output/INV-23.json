@@ -1,0 +1,10 @@
+{
+  "file": "INV-23.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "ESTIMATE",
+      "reason": "Estimate EST-259684 (proforma) requiring a GHC 13,000 deposit to proceed; estimates are not bookable payables. The ICUMS pages are supporting customs calculations."
+    }
+  ]
+}

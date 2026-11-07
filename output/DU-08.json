@@ -1,0 +1,10 @@
+{
+  "file": "DU-08.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "REMINDER",
+      "reason": "Mahnung (dunning letter) for invoice VRB700A6126940; it references a canceled invoice (44.84 credit) and an invoice not present in the file. A reminder is not itself a payable."
+    }
+  ]
+}

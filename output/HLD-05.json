@@ -1,0 +1,222 @@
+{
+  "file": "HLD-05.pdf",
+  "payables": [
+    {
+      "invoice_number": "7769922058",
+      "invoice_date": "2026-06-12",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "EUR",
+      "supplier": {
+        "name": "",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": "PT668715865"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "1037.94",
+      "subtotal": "1796.54",
+      "total_tax_amount": "176.87",
+      "discount_amount": "1049.60",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "88.33",
+      "taxes": [
+        {
+          "tax_type": "IVA",
+          "tax_name": "IVA 23%",
+          "tax_rate": "23",
+          "tax_amount": "157.05",
+          "tax_type_code": "PT_230_IVA"
+        },
+        {
+          "tax_type": "IVA",
+          "tax_name": "IVA 13%",
+          "tax_rate": "13",
+          "tax_amount": "19.82",
+          "tax_type_code": "PT_130_IVA"
+        }
+      ],
+      "line_items": [
+        {
+          "description": "SAGRES Branca Gfa Tab 6x1L PT",
+          "item_type": "GOODS",
+          "uom": "TAB",
+          "quantity": "40",
+          "unit_price": "14.76",
+          "total": "590.40",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "HEINEKEN Barril OW 5L PT",
+          "item_type": "GOODS",
+          "uom": "BAR",
+          "quantity": "6",
+          "unit_price": "24.53",
+          "total": "147.18",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "SAGRES Branca Gfa Tab 4(6x25cl) PT201a",
+          "item_type": "GOODS",
+          "uom": "TAB",
+          "quantity": "1",
+          "unit_price": "24.96",
+          "total": "24.96",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "SAGRES Branca Gfa Cxa 20x25cl PT 201a",
+          "item_type": "GOODS",
+          "uom": "CRT",
+          "quantity": "9",
+          "unit_price": "20.80",
+          "total": "187.20",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "CASTELLO Original Gfa SW 4(6x25cl) 404a",
+          "item_type": "GOODS",
+          "uom": "PAK",
+          "quantity": "7",
+          "unit_price": "20.40",
+          "total": "142.80",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "LUSO PET SW 6x1,5L SDR",
+          "item_type": "GOODS",
+          "uom": "PAK",
+          "quantity": "27",
+          "unit_price": "6.72",
+          "total": "181.44",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Depósito SDR",
+          "item_type": "GOODS",
+          "uom": "UND",
+          "quantity": "162",
+          "unit_price": "0.10",
+          "total": "16.20",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "LUSO PET SW 4(6x50cl) SDR",
+          "item_type": "GOODS",
+          "uom": "PAK",
+          "quantity": "4",
+          "unit_price": "14.64",
+          "total": "58.56",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Depósito SDR",
+          "item_type": "GOODS",
+          "uom": "UND",
+          "quantity": "96",
+          "unit_price": "0.10",
+          "total": "9.60",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "DECVAKUGZK Gfa Cxa 4(6x33cl) ES",
+          "item_type": "GOODS",
+          "uom": "CRT",
+          "quantity": "1",
+          "unit_price": "48.00",
+          "total": "48.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "HEINEKEN Gfa Cxa 18x25cl PT",
+          "item_type": "GOODS",
+          "uom": "CRT",
+          "quantity": "4",
+          "unit_price": "18.72",
+          "total": "74.88",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "HEINEKEN Gfa Tab 4(6x25cl) PT",
+          "item_type": "GOODS",
+          "uom": "TAB",
+          "quantity": "7",
+          "unit_price": "24.96",
+          "total": "174.72",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "SAGRES Branca Gfa SW 2(10x25cl) PT201a",
+          "item_type": "GOODS",
+          "uom": "PAK",
+          "quantity": "8",
+          "unit_price": "20.80",
+          "total": "166.40",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    }
+  ],
+  "declined": []
+}
