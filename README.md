@@ -81,7 +81,7 @@ Your system runs with **one command** over the `documents/` directory and writes
     { "doc_type": "...", "reason": "why this is not a payable" }
   ]
 }
-```
+
 
 - One entry in `payables[]` per bookable payable. A document with several payables ⇒ several entries; a document that is not a payable ⇒ `payables: []`.
 - A **credit** is a payable of type `CREDIT_MEMO`. It uses the **same schema — the same keys** as any payable; only the values differ. Set `invoice_type: "CREDIT_MEMO"` and fill the ordinary fields (`line_items`, `taxes`, `gross_total`, …) with the credit memo's own figures, as **positive** magnitudes (see `erp.py`'s sign handling). There is no separate credit-memo shape — same record, credit values.
