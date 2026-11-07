@@ -1,5 +1,4 @@
 # The Bookable Payable
-### A 3–4 day engineering challenge
 
 > You will build a system that turns a supplier document into records an accounting system can book. This is not a document-extraction task, though it will look like one for the first few hours. Read the whole brief — including the last section — before you write anything.
 
