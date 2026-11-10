@@ -10,7 +10,6 @@ It reports the gross and nothing else — not whether it is right, not where it 
 not the internal line/tax structure it built. Comparing that number to what the document
 actually says is owed is your job.
 
-Read it — it  the exact contract you must satisfy. Stdlib only, Python 3.10+.
 """
 from __future__ import annotations
 
