@@ -11,7 +11,6 @@ not the internal line/tax structure it built. Comparing that number to what the 
 actually says is owed is your job.
 
 Read it — it is the exact contract you must satisfy. Stdlib only, Python 3.10+.
-CLI:  python erp.py path/to/payable.json
 """
 from __future__ import annotations
 
