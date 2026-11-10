@@ -8,7 +8,6 @@ recomputes the gross it will book and returns that single number.
 
 It reports the gross and nothing else — not whether it is right, not where it differs,
 not the internal line/tax structure it built. Comparing that number to what the document
-actually says is owed is your job.
 
 """
 from __future__ import annotations
